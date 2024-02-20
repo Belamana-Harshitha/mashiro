@@ -1,0 +1,28 @@
+
+body{
+    background-color:black;
+}
+#images{
+padding: 0%;
+border: 5px solid white;
+margin-top: 70px;
+margin-left: 45px;
+color: white;
+width :90%;
+align-self: center;
+
+}
+#h1{
+font-style: normal;
+font-family: Libre Baskerville,serif; 
+font-weight: 300; 
+align-self: center;
+font-size: xx-large;
+}
+#p{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+*{
+    color: azure;
+    text-align: center;
+}
